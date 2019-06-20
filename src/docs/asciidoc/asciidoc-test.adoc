@@ -1,0 +1,5 @@
+= Book
+:doctype: book
+:imagesdir: images
+
+include::_chapter1.adoc[leveloffset=+1]
